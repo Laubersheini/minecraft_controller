@@ -1,0 +1,15 @@
+{
+  "name": "minecraftd_controller",
+  "version": "1.0.0",
+  "description": "Exposes a really simple restapi that controls minecraftd and can shut down the pc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}

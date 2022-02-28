@@ -1,0 +1,17 @@
+{
+  "name": "matrix_minecraft_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "David Laubersheimer",
+  "license": "AGPL-3.0-or-later",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "matrix-bot-sdk": "^0.5.19",
+    "wake_on_lan": "^1.0.0"
+  }
+}
